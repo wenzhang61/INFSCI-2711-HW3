@@ -1,9 +1,11 @@
 # INFSCI-2711-HW3
 HW3
 
-src/edu/pitt/sis/infsci2711/wordcount/
+Q1: 
 
-Q1. WordCount.java, Output File: "output" folder
+src/edu/pitt/sis/infsci2711/WordCount/WordCount.java, Output File: "output1" folder
 
-Q2. FriendRecommendation.java, Output File: "output1" folder
+Q2:
+
+src/edu/pitt/sis/infsci2711/friendrecommendation/FriendRecommendation.java, Output File: "output" folder
 
