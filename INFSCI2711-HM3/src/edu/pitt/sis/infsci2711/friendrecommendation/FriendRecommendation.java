@@ -20,13 +20,6 @@ import java.io.DataOutput;
 import java.io.IOException;
 import java.util.*;
 
-/**
- * Created with IntelliJ IDEA.
- * User: dbtsai
- * Date: 1/16/13
- * Time: 5:32 PM
- */
-
 public class FriendRecommendation {
 
     static public class FriendCountWritable implements Writable {
